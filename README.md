@@ -1,7 +1,21 @@
 # Simple-ML-Algorithm
-Simple implementation of general machine learning algorithms
+Simple implementation of general machine learning algorithms from scratch
 
 
+#### Linear model
+[Linear Regression](https://github.com/FelixHo/Simple-ML-Algorithm/blob/master/smla/linear_model/linear_regression.py)
+
+[Logistic Regression](https://github.com/FelixHo/Simple-ML-Algorithm/blob/master/smla/linear_model/logistic_regression.py)
+
+[Softmax Regression](https://github.com/FelixHo/Simple-ML-Algorithm/blob/master/smla/linear_model/softmax_regression.py)
+
+#### Naive Bayes
+[GaussianNB](https://github.com/FelixHo/Simple-ML-Algorithm/blob/master/smla/naive_bayes/gaussian_naive_bayes.py)
+
+[MultinomialNB](https://github.com/FelixHo/Simple-ML-Algorithm/blob/master/smla/naive_bayes/multinomial_naive_bayes.py)
+
+#### Neighbors
+[KNN](https://github.com/FelixHo/Simple-ML-Algorithm/blob/master/smla/neighbors/k_nearest_neighbors.py)
 
 # MIT License
 

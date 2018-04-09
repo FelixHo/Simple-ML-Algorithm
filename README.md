@@ -17,6 +17,9 @@ Simple implementation of general machine learning algorithms from scratch
 #### Neighbors
 [KNN](https://github.com/FelixHo/Simple-ML-Algorithm/blob/master/smla/neighbors/k_nearest_neighbors.py)
 
+#### Cluster
+[KMeans](https://github.com/FelixHo/Simple-ML-Algorithm/blob/master/smla/cluster/kmeans.py)
+
 # MIT License
 
 Copyright (c) 2018 FelixHo
